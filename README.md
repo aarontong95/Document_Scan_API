@@ -1,4 +1,6 @@
 # Document Understanding API
+* Input: Document uploaded by user
+* Output: Information extraction with the location
 
 ## ENVIRONMENT
 * python3.75
